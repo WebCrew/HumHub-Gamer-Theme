@@ -24,7 +24,7 @@ Theme is working nice with latest HumHub release! Version 1.0.1+
 Here You can see some screenshot of the theme and the parts which needs to be fixed.
 <a href="http://todgmbh.de">
     <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/profile.png?raw=true" alt="Theme Screenshot"
-         title="HumHub TodGmbH Theme - Profile View" align="left" /> This is the default Profile view of my TodGmbH theme.
+         title="HumHub TodGmbH Theme - Profile View" align="left" />
 </a>
 
 <a href="http://web-crew.org">
