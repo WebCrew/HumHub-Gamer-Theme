@@ -27,10 +27,14 @@ Here You can see some screenshot of the theme and the parts which needs to be fi
          title="HumHub TodGmbH Theme - Profile View" align="left" />
 </a>
 
+
+
 <a href="http://web-crew.org">
     <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/filesharing.png?raw=true" alt="Theme Screenshot"
          title="HumHub TodGmbH Theme - Filesharing View" align="left" />This is the Filesharing Module view and You can see it needs urgently a sidebar menu to navigate thru the network.
 </a>
+
+
 
 <a href="http://todgmbh.de">
     <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/wiki.png?raw=true" alt="Theme Screenshot"
