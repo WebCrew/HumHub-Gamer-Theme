@@ -1,5 +1,5 @@
 #  humhub-themes-TodGmbH
-Based on the FlatHub theme by Alexandra Travkina - [thrashed.ru](http://thrashed.ru)
+
 I "WebCrew", did a lot of changes and fixed a lot of issues and bugs. 
 Theme is working nice with latest HumHub release! Version 1.0.1+
 
@@ -69,3 +69,6 @@ Here You can see some screenshot of the theme and the parts which needs to be fi
 
 ## Author
 Andreas Holzer - [web-crew.org](http://web-crew.org)
+
+Based on the FlatHub theme by Alexandra Travkina - [thrashed.ru](http://thrashed.ru)
+
