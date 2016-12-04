@@ -23,17 +23,17 @@ Theme is working nice with latest HumHub release! Version 1.0.1+
 **Screenshot**
 Here You can see some screenshot of the theme and the parts which needs to be fixed.
 <a href="http://todgmbh.de">
-    <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/profile.jpg?raw=true" alt="Theme Screenshot"
+    <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/profile.png?raw=true" alt="Theme Screenshot"
          title="HumHub TodGmbH Theme - Profile View" align="left" /> This is the default Profile view of my TodGmbH theme.
 </a>
 
 <a href="http://web-crew.org">
-    <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/filesharing.jpg?raw=true" alt="Theme Screenshot"
+    <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/filesharing.png?raw=true" alt="Theme Screenshot"
          title="HumHub TodGmbH Theme - Filesharing View" align="left" />This is the Filesharing Module view and You can see it needs urgently a sidebar menu to navigate thru the network.
 </a>
 
 <a href="http://todgmbh.de">
-    <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/wiki.jpg?raw=true" alt="Theme Screenshot"
+    <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/wiki.png?raw=true" alt="Theme Screenshot"
          title="HumHub TodGmbH Theme - WIKI View" align="left" />Also the WIKI pages Module needs the default sidebar with the menu to navigate thru the network.
 </a>
 
