@@ -1,6 +1,7 @@
 #  humhub-themes-TodGmbH
 Based on the FlatHub theme by Alexandra Travkina - [thrashed.ru](http://thrashed.ru)
 I "WebCrew", did a lot of changes and fixed a lot of issues and bugs. 
+Theme is working nice with latest HumHub release! Version 1.0.1+
 
 !!Your help is urgently wanted to fix some of the few bugs which are left.
 
@@ -18,6 +19,23 @@ I "WebCrew", did a lot of changes and fixed a lot of issues and bugs.
 - WIKI pages need a sidebar with the default sidebar widgets like the menu etc.
 - The File Sharing Module page needs also the sidebar for better navigation between the network pages
 - Some links of the main top navigation are in need of a hover info text (some links working with info text, some not)
+
+**Screenshot**
+Here You can see some screenshot of the theme and the parts which needs to be fixed.
+<a href="http://todgmbh.de">
+    <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/profile.jpg?raw=true" alt="Theme Screenshot"
+         title="HumHub TodGmbH Theme - Profile View" align="left" /> This is the default Profile view of my TodGmbH theme.
+</a>
+
+<a href="http://web-crew.org">
+    <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/filesharing.jpg?raw=true" alt="Theme Screenshot"
+         title="HumHub TodGmbH Theme - Filesharing View" align="left" />This is the Filesharing Module view and You can see it needs urgently a sidebar menu to navigate thru the network.
+</a>
+
+<a href="http://todgmbh.de">
+    <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/wiki.jpg?raw=true" alt="Theme Screenshot"
+         title="HumHub TodGmbH Theme - WIKI View" align="left" />Also the WIKI pages Module needs the default sidebar with the menu to navigate thru the network.
+</a>
 
 ## Install
 - Extract archive and rename to TodGmbH.
