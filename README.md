@@ -5,11 +5,17 @@ Theme is working nice with latest HumHub release! Version 1.0.1+
 
 !!Your help is urgently wanted to fix some of the few bugs which are left.
 
+
+
 **Profile Screenshot**
+
+
 <a href="http://todgmbh.de">
     <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/profile.png?raw=true" alt="Theme Screenshot"
          title="HumHub TodGmbH Theme - Profile View" align="left" />
 </a>
+
+
 
 
 ## Features
@@ -22,10 +28,14 @@ Theme is working nice with latest HumHub release! Version 1.0.1+
 - Slider block
 - and other changes
 
+
+
 ## Has to be fixed and reworked (You are welcome to help)
 - WIKI pages need a sidebar with the default sidebar widgets like the menu etc.
 - The File Sharing Module page needs also the sidebar for better navigation between the network pages
 - Some links of the main top navigation are in need of a hover info text (some links working with info text, some not)
+
+
 
 **More Screenshot**
 Here You can see some screenshot of the theme and the parts which needs to be fixed.
@@ -43,13 +53,19 @@ Here You can see some screenshot of the theme and the parts which needs to be fi
          title="HumHub TodGmbH Theme - WIKI View" align="left" />Also the WIKI pages Module needs the default sidebar with the menu to navigate thru the network.
 </a>
 
+
+
 ## Install
 - Extract archive and rename to TodGmbH.
 - Put folder in: yousite.com/themes
 
+
+
 ## Settings
 - You can change intro videos in folder: ../TodGmbH/video
 - You can change slider settings in file: ../TodGmbH/views/dashboard/widgets/share.php
+
+
 
 ## Author
 Andreas Holzer - [web-crew.org](http://web-crew.org)
