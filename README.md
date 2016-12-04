@@ -5,6 +5,13 @@ Theme is working nice with latest HumHub release! Version 1.0.1+
 
 !!Your help is urgently wanted to fix some of the few bugs which are left.
 
+**Profile Screenshot**
+<a href="http://todgmbh.de">
+    <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/profile.png?raw=true" alt="Theme Screenshot"
+         title="HumHub TodGmbH Theme - Profile View" align="left" />
+</a>
+
+
 ## Features
 - dark flat design
 - Sidebar left position
@@ -20,13 +27,8 @@ Theme is working nice with latest HumHub release! Version 1.0.1+
 - The File Sharing Module page needs also the sidebar for better navigation between the network pages
 - Some links of the main top navigation are in need of a hover info text (some links working with info text, some not)
 
-**Screenshot**
+**More Screenshot**
 Here You can see some screenshot of the theme and the parts which needs to be fixed.
-<a href="http://todgmbh.de">
-    <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/profile.png?raw=true" alt="Theme Screenshot"
-         title="HumHub TodGmbH Theme - Profile View" align="left" />
-</a>
-
 
 
 <a href="http://web-crew.org">
