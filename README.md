@@ -34,6 +34,10 @@ Theme is working nice with latest HumHub release! Version 1.0.1+
 - WIKI pages need a sidebar with the default sidebar widgets like the menu etc.
 - The File Sharing Module page needs also the sidebar for better navigation between the network pages
 - Some links of the main top navigation are in need of a hover info text (some links working with info text, some not)
+- Known ErrorException: Undefined index: in .../humhub/themes/TodGmbH/views/widgets/topNavigation.php:12
+in:
+<?php // echo Html::a($item['icon'] . $item[''], $item['url'], $item['htmlOptions']); ?>
+Any solution is welcome!
 
 
 
