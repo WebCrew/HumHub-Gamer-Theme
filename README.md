@@ -52,7 +52,7 @@ Any solution is welcome!
 
 
 ## Author plus Team
-Andreas Holzer - [web-crew.org](http://web-crew.org)
-Animesh - [Animeash Swain HumHub Profile](https://community.humhub.com/u/animesh+swain/)
-Alexandra Travkina - [thrashed.ru](http://thrashed.ru)
+- Andreas Holzer - [web-crew.org](http://web-crew.org)
+- Animesh - [Animeash Swain HumHub Profile](https://community.humhub.com/u/animesh+swain/)
+- Alexandra Travkina - [thrashed.ru](http://thrashed.ru)
 
