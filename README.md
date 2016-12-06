@@ -51,8 +51,8 @@ Any solution is welcome!
 
 
 
-## Author
+## Author plus Team
 Andreas Holzer - [web-crew.org](http://web-crew.org)
-
-Based on the FlatHub theme by Alexandra Travkina - [thrashed.ru](http://thrashed.ru)
+Animesh - [Animeash Swain HumHub Profile](https://community.humhub.com/u/animesh+swain/)
+Alexandra Travkina - [thrashed.ru](http://thrashed.ru)
 
