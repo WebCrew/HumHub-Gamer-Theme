@@ -39,25 +39,6 @@ in:
 Any solution is welcome!
 
 
-
-**More Screenshot**
-Here You can see some screenshot of the theme and the parts which needs to be fixed.
-
-
-<a href="http://web-crew.org">
-    <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/filesharing.png?raw=true" alt="Theme Screenshot"
-         title="HumHub TodGmbH Theme - Filesharing View" align="left" />This is the Filesharing Module view and You can see it needs urgently a sidebar menu to navigate thru the network.
-</a>
-
-
-
-<a href="http://todgmbh.de">
-    <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/wiki.png?raw=true" alt="Theme Screenshot"
-         title="HumHub TodGmbH Theme - WIKI View" align="left" />Also the WIKI pages Module needs the default sidebar with the menu to navigate thru the network.
-</a>
-
-
-
 ## Install
 - Extract archive and rename to TodGmbH.
 - Put folder in: yousite.com/themes
