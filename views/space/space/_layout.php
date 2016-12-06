@@ -7,26 +7,49 @@ $space = $this->context->contentContainer;
             <?php echo humhub\modules\space\widgets\Header::widget(['space' => $space]); ?>
 
         </div>
-    </div>
+    </div> 
     <div class="row">
 
         <?php if (isset($this->context->hideSidebar) && $this->context->hideSidebar) : ?>
-            <div class="col-md-12 layout-content-container">
+            <div class="col-md-4 layout-nav-container">
+				<?php echo \humhub\modules\space\widgets\Menu::widget(['space' => $space]); ?>
+			</div>
+			
+			<div class="col-md-8 layout-content-container">
                 <?php echo $content; ?>
             </div>
         <?php else: ?>
-            <div class="col-md-4 layout-sidebar-container">
-				<div class="panel-light no-icons">
+		
+            <div class="col-md-4 layout-nav-container visible-lg visible-md">
+			<!--	<div class="panel-light no-icons"> -->
 					<?php echo \humhub\modules\space\widgets\Menu::widget(['space' => $space]); ?>
-				</div>
+			<!--	</div> -->
+				
                 <?php
                 echo \humhub\modules\space\widgets\Sidebar::widget(['space' => $space, 'widgets' => [
-                        [\humhub\modules\activity\widgets\Stream::className(), ['streamAction' => '/space/space/stream', 'contentContainer' => $space], ['sortOrder' => 10]],
-                        [\humhub\modules\space\modules\manage\widgets\PendingApprovals::className(), ['space' => $space], ['sortOrder' => 20]],
+                        [\humhub\modules\activity\widgets\Stream::className(), ['streamAction' => '/space/space/stream', 'contentContainer' => $space], ['sortOrder' => 20]],
+                        [\humhub\modules\space\modules\manage\widgets\PendingApprovals::className(), ['space' => $space], ['sortOrder' => 10]],
                         [\humhub\modules\space\widgets\Members::className(), ['space' => $space], ['sortOrder' => 30]]
+                ]]);
+                
+				?>
+				
+            </div>
+			
+			<div class="col-md-4 layout-sidebar-container visible-xs visible-sm">
+				<!--<div class="panel-light no-icons"> -->
+					<?php echo \humhub\modules\space\widgets\Menu::widget(['space' => $space]); ?>
+				<!-- </div> -->
+				
+                <?php
+                echo \humhub\modules\space\widgets\Sidebar::widget(['space' => $space, 'widgets' => [
+                       // [\humhub\modules\activity\widgets\Stream::className(), ['streamAction' => '/space/space/stream', 'contentContainer' => $space], ['sortOrder' => 10]],
+                        [\humhub\modules\space\modules\manage\widgets\PendingApprovals::className(), ['space' => $space], ['sortOrder' => 20]],
+                       // [\humhub\modules\space\widgets\Members::className(), ['space' => $space], ['sortOrder' => 30]]
                 ]]);
                 ?>
             </div>
+			
             <div class="col-md-8 layout-content-container">
                 <?php echo $content; ?>
             </div>
