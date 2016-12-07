@@ -1,9 +1,9 @@
-#  humhub-themes-TodGmbH
+#  HumHub-Theme-TodGmbH
 
-I "WebCrew", did a lot of changes and fixed a lot of issues and bugs. 
+I did a lot of changes and fixed a lot of issues and bugs. 
 Theme is working nice with latest HumHub release! Version 1.0.1+
 
-!!Your help is urgently wanted to fix some of the few bugs which are left.
+!!Your help is urgently wanted to fix some of the few little bugs which are maybe left.
 
 
 
