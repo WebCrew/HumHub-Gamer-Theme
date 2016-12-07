@@ -42,15 +42,15 @@
 		$(window).load(function() {
 			$('#featured').orbit({
 				'animation': 'vertical-slide',		//fade, horizontal-slide, vertical-slide
-				'animationSpeed': 700,				//how fast animtions are
-				'advanceSpeed': 5000,				//if auto advance is enabled, time between transitions 
+				'animationSpeed': 700,			//how fast animtions are
+				'advanceSpeed': 5000,			//if auto advance is enabled, time between transitions 
 				'startClockOnMouseOut': true,		//if clock should start on MouseOut
 				'startClockOnMouseOutAfter': 5000,	//how long after mouseout timer should start again
-				'directionalNav': false,			//manual advancing directional navs
-				'captions': true,					//do you want captions?
+				'directionalNav': false,		//manual advancing directional navs
+				'captions': true,			//do you want captions?
 				'captionAnimationSpeed': 700,		//if so how quickly should they animate in
-				'timer': true,						//true or false to have the timer
-				'bullets': true						//true or false to activate the bullet navigation
+				'timer': true,				//true or false to have the timer
+				'bullets': true				//true or false to activate the bullet navigation
 			});
 		});
 	</script>
