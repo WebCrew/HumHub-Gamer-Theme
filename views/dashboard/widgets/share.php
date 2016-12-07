@@ -11,7 +11,7 @@
 		
 			<!-- 
 				IMAGES 
-				Imgaes folder: ../FlatHub/img/orbit/banner
+				Imgaes folder: ../TodGmbH/img/orbit/banner
 				Images format: 346x346px jpg
 			-->
 			
