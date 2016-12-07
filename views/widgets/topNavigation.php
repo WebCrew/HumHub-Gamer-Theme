@@ -9,7 +9,7 @@ use yii\helpers\Url;
         echo $item['id'];
     }
     ?>">
-            <?php echo Html::a($item['icon'] . $item[''], $item['url'], $item['htmlOptions']); ?>
+            <?php echo Html::a($item['icon'], $item['url'], $item['htmlOptions']); ?>
     </li>
 <?php endforeach; ?>
 
