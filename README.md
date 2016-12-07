@@ -38,6 +38,8 @@ Theme is working nice with latest HumHub release! Version 1.0.1+
          title="Navigation Example of the Issue" align="left" />
 </a>
 
+
+
 ## Install
 - Extract archive and rename to TodGmbH.
 - Put folder in: yousite.com/themes
