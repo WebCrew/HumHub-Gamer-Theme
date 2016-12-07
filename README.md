@@ -33,7 +33,10 @@ Theme is working nice with latest HumHub release! Version 1.0.1+
 ## Has to be fixed and reworked (You are welcome to help)
 
 - Some links of the main top navigation are in need of a hover info text (some links working with info text, some not)
-
+<a href="http://todgmbh.de">
+    <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/navigation.gif?raw=true" alt="Navigation Example of the Issue"
+         title="Navigation Example of the Issue" align="left" />
+</a>
 
 ## Install
 - Extract archive and rename to TodGmbH.
