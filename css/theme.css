@@ -2597,7 +2597,7 @@ img.bounceIn {
     padding: 4px;
 }
 .md-editor.active {
-    border: 2px solid #111 !important;
+    border: none !important;
 }
 @media (max-width:767px) {
     .topbar {
