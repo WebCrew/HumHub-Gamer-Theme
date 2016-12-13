@@ -7,7 +7,7 @@ Theme is working nice with latest HumHub release! Version 1.0.1+
 
 
 NOTE: 
-_The theme needs one Space which is open also for guests, otherwise the login/registration is not working! I will not change that feature, because thats the ay my theme has to work, but you are welcome to edit it in your installation._
+_The theme needs one Space which is open also for guests, otherwise the login/registration is not working! I will not change that feature, because thats the way my theme has to work, but you are welcome to edit it in your installation to fit your needs._
 
 
 
