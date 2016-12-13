@@ -4,7 +4,10 @@ I did a lot of changes and fixed a lot of issues and bugs.
 Theme is working nice with latest HumHub release! Version 1.0.1+
 
 !!Your help is urgently wanted to fix some of the few little bugs which are maybe left.
-NOTE: The theme needs one Space which is open also for guests, otherwise the login/registration is not working! I will not change that feature, because thats the ay my theme has to work, but you are welcome to edit it in your installation.
+
+
+NOTE: 
+_The theme needs one Space which is open also for guests, otherwise the login/registration is not working! I will not change that feature, because thats the ay my theme has to work, but you are welcome to edit it in your installation._
 
 
 
