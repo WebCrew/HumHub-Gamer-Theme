@@ -92,12 +92,6 @@ AppAsset::register($this);
 					<?php echo \humhub\modules\user\widgets\AccountTopMenu::widget(); ?>
 				</div>
             
-			    <!--
-                <form id="switchform">
-					<a href="javascript:chooseStyle('none', 60)" checked="checked"><i class="fa fa-sun-o"></i></a>
-					<a href="javascript:chooseStyle('dark-theme', 60)"<i class="fa fa-moon-o"></i></a>
-				</form>
-                -->
             </div>
             
 
@@ -143,7 +137,6 @@ AppAsset::register($this);
 			<footer>
 				<div class="copyright">
 					<span>Copyright 2015-2016 by <a target="_blank" href="http://web-crew.org">WebCrew</a></span>
-					<!-- <span>Design by <a target="_blank" href="http://web-crew.org">Alexandra T.</a></span> -->
 				</div>
 			</footer>
 		</div>
