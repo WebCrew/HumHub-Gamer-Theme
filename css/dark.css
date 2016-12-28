@@ -438,3 +438,7 @@ ul.tag_input {
     -moz-border-radius: 3%;
     border-radius: 3%;
 }
+
+legend {
+    color: #337ab7
+}
