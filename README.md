@@ -6,24 +6,25 @@ Theme is working nice with latest HumHub release! Version 1.0.1+
 !!Your help is urgently wanted to fix some of the few little bugs which are maybe left.
 
 
-NOTE: 
+**NOTE:** 
 _The theme needs one Space which is open also for guests, otherwise the login/registration is not working! I will not change that feature, because thats the way my theme has to work, but you are welcome to edit it in your installation to fit your needs._
 
 
 
 **Profile Screenshot**
 
-
+###Profile View
 <a href="http://todgmbh.de">
     <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/profile.png?raw=true" alt="Theme Screenshot"
          title="HumHub TodGmbH Theme - Profile View" align="left" />
 </a>
----
+
+###TogetherJS View
 <a href="http://todgmbh.de">
     <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/togetherjs.png?raw=true" alt="Theme Screenshot"
          title="HumHub TodGmbH Theme - With TogetherJS View" align="left" />
 </a>
----
+
 
 
 
