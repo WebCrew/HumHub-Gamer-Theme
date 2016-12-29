@@ -19,6 +19,11 @@ _The theme needs one Space which is open also for guests, otherwise the login/re
          title="HumHub TodGmbH Theme - Profile View" align="left" />
 </a>
 
+<a href="http://todgmbh.de">
+    <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/togetherjs.png?raw=true" alt="Theme Screenshot"
+         title="HumHub TodGmbH Theme - With TogetherJS View" align="left" />
+</a>
+
 
 
 
@@ -26,6 +31,7 @@ _The theme needs one Space which is open also for guests, otherwise the login/re
 - dark flat design
 - Sidebar left position
 - Custom main menu
+- TogetherJS Chat integrated
 - Login page video background, or only by modal
 - Grid images
 - Lightbox images
