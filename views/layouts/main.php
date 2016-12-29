@@ -75,7 +75,11 @@ AppAsset::register($this);
     <body>
 	
 	<script src="<?php echo $this->theme->getBaseUrl() . '/js/lightbox-plus-jquery.min.js'; ?>"></script>
-	
+
+    <!-- TogetherJS Start -->
+    <script src="https://togetherjs.com/togetherjs-min.js"></script>
+	<!-- TogetherJS End -->
+    
     <?php $this->beginBody() ?>
 	
     <!-- start: first top navigation bar -->
@@ -85,8 +89,14 @@ AppAsset::register($this);
             <div class="topbar-brand hidden-xs">
                 <?php echo \humhub\widgets\SiteLogo::widget(); ?>
             </div>
+            <!-- TogetherJS Button Start -->
+            <div class="topbar-actions pull-right">
+                <div class="no-icons">
+            <button style=" margin-top: 12px; margin-left: 12px; background: #222; border-style: 1px dotted; border-color: #167ac6;" onclick="TogetherJS(this); return false;">Start Chat</button>
+                </div>
+            <!-- TogetherJS Button End -->
+            </div>
 
-            
             <div class="topbar-actions pull-right">
 				<div class="no-icons">
 					<?php echo \humhub\modules\user\widgets\AccountTopMenu::widget(); ?>
@@ -136,7 +146,7 @@ AppAsset::register($this);
 		<div class="col-md-12 layout-content-container">
 			<footer>
 				<div class="copyright">
-					<span>Copyright 2015-2016 by <a target="_blank" href="http://web-crew.org">WebCrew</a></span>
+					<span>Copyright 2015-2017 by <a target="_blank" href="http://web-crew.org">WebCrew</a></span>
 				</div>
 			</footer>
 		</div>
