@@ -18,12 +18,12 @@ _The theme needs one Space which is open also for guests, otherwise the login/re
     <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/profile.png?raw=true" alt="Theme Screenshot"
          title="HumHub TodGmbH Theme - Profile View" align="left" />
 </a>
-
+---
 <a href="http://todgmbh.de">
     <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/togetherjs.png?raw=true" alt="Theme Screenshot"
          title="HumHub TodGmbH Theme - With TogetherJS View" align="left" />
 </a>
-
+---
 
 
 
