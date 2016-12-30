@@ -92,7 +92,7 @@ AppAsset::register($this);
             <!-- TogetherJS Button Start -->
             <div class="topbar-actions pull-right">
                 <div class="no-icons">
-            <button style=" margin-top: 12px; margin-left: 12px; background: #222; border-style: 1px dotted; border-color: #167ac6;" onclick="TogetherJS(this); return false;">Start Chat</button>
+            <a class="btn btn-info btn-xs" style="margin-top: 12px; margin-left: 4px;" onclick="TogetherJS(this); return false;">Chat</a>
                 </div>
             <!-- TogetherJS Button End -->
             </div>
