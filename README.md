@@ -9,7 +9,7 @@ Theme is working nice with latest HumHub release! Version 1.0.1+
 **NOTE:** 
 _The theme needs one Space which is open also for guests, otherwise the login/registration is not working! I will not change that feature, because thats the way my theme has to work, but you are welcome to edit it in your installation to fit your needs._
 
-
+**SPECIAL**: My TodGmbH theme has now Markdown support in all Space messages and also comments. I can understand the performance implications of doing this on the server side. However, **there aren't any of those concerns** if we process the Markdown on the client side, so all is fine. 
 
 **Profile Screenshot**
 
