@@ -2751,22 +2751,8 @@ img.bounceIn {
 #share-panel .share-icon-linkedin {
     color: #0177b5;
 }
-
-/* 
-#switchform {
-    position: absolute;
-    z-index: 10;
-    opacity: 0.9;
-    right: 0;
+code {
+    color: #4293bb;
+    background-color: #3cb1ea;
+    border: 1px solid #3cb1ea;
 }
-#switchform a {
-    color: #fff;    
-}
-#switchform a:first-child {
-    display: none;
-}
-#switchform a:last-child {
-    display: block;
-    margin: 10px 15px 0 0;
-}
-*/
