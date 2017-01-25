@@ -858,7 +858,8 @@ form.dropdown-controls {
     right: 10px;
 }
 .panel-body strong {
-	font-weight: bold;
+    font-weight: bold;
+    color: rgb(173, 39, 8);
     font-size: 15px;
     font-family: "PT Sans";
 }
