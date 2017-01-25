@@ -2583,7 +2583,7 @@ img.bounceIn {
 .markdown-render a, .markdown-render a:visited {
     background-color: inherit;
     text-decoration: none;
-    color: #6fdbe8 !important;
+    color: rgb(173, 39, 8);
 }
 .markdown-render img {
     max-width: 100%;
