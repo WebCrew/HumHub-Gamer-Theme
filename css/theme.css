@@ -1640,7 +1640,7 @@ a.label-warning:hover {
     vertical-align: baseline;
     white-space: nowrap;
     text-shadow: none;
-    background-color: #d7d7d7;
+    background-color: #a94442;
     line-height: 1;
 }
 .list-group-item {
