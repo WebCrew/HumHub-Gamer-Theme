@@ -81,6 +81,10 @@ Do **not use** other Markdown tags as the ones which I have named, otherwise the
 - You can change intro videos in folder: ../TodGmbH/video
 - You can change slider settings in file: ../TodGmbH/views/dashboard/widgets/share.php
 
+**If you do not like to use the Together JS chat, then delete the following lines of code at:**
+views/layouts/main.php
+line 79-81 and 92-97
+
 
 
 ## Author plus Team
