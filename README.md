@@ -36,11 +36,6 @@ Do **not use** other Markdown tags as the ones which I have named, otherwise the
          title="HumHub TodGmbH Theme - Profile View" align="left" />
 </a>
 
-###TogetherJS View
-<a href="http://todgmbh.de">
-    <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/togetherjs.png?raw=true" alt="Theme Screenshot"
-         title="HumHub TodGmbH Theme - With TogetherJS View" align="left" />
-</a>
 
 
 
@@ -49,7 +44,6 @@ Do **not use** other Markdown tags as the ones which I have named, otherwise the
 - dark flat design
 - Sidebar left position
 - Custom main menu
-- TogetherJS Chat integrated
 - Login page video background, or only by modal
 - Grid images
 - Lightbox images
@@ -81,9 +75,6 @@ Do **not use** other Markdown tags as the ones which I have named, otherwise the
 - You can change intro videos in folder: ../TodGmbH/video
 - You can change slider settings in file: ../TodGmbH/views/dashboard/widgets/share.php
 
-**If you do not like to use the Together JS chat, then delete the following lines of code at:**
-views/layouts/main.php
-line 79-81 and 92-97
 
 
 
