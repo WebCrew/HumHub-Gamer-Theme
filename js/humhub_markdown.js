@@ -27,12 +27,6 @@ $('.content').livequery( function(){
     $("a[href^='http']",post).attr("target","_blank");
 });
 
-$('a.likeAnchor').livequery( function(){
-	// Strip Like Button test to use FA-Heart instead
-	$(this).html('');
-});
-
-
 $('.oembed_snippet').livequery( function(){
     var iframe = $(this).find('iframe').first();
     if (iframe.length > 0) {

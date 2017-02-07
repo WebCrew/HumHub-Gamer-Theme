@@ -389,15 +389,6 @@ ul.tag_input {
     overflow: auto;
 }
 
-/*
-#switchform a:first-child {
-	margin: 7px 15px 0 0;
-	display: block;
-}
-#switchform a:last-child {
-	display: none !important;
-}
-*/
 
 .alert-info {
     color: #31708f;

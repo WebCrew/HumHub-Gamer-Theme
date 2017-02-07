@@ -1,0 +1,81 @@
+/* General Demo Style */
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
+
+html { height: 100%; }
+
+*,
+*:after,
+*:before {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+/* og-clearfix hack by Nicolas Gallagher: http://nicolasgallagher.com/micro-og-clearfix-hack/ */
+.og-clearfix:before,
+.og-clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.og-clearfix:after {
+    clear: both;
+}
+
+.og-clearfix {
+    *zoom: 1;
+}
+
+body {
+    font-family: 'Lato', Calibri, Arial, sans-serif;
+    background: #272833;
+    font-weight: 300;
+    font-size: 15px;
+    color: #f1f1f1;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+a {
+	color: #121212;
+	text-decoration: none;
+}
+
+.og-container {
+	width: 100%;
+	position: relative;
+}
+
+.og-container > header {
+	width: 90%;
+	max-width: 1240px;
+	margin: 0 auto;
+	position: relative;
+	padding: 0 30px 50px 30px;
+}
+
+.og-container > header {
+	padding: 60px 30px 50px;
+	text-align: center;
+}
+
+.og-container > header h1 {
+	font-size: 34px;
+	line-height: 38px;
+	margin: 0 auto;
+	font-weight: 700;
+	color: #f2f2f2;
+}
+
+.og-container > header h1 span {
+	display: block;
+	font-size: 20px;
+	font-weight: 300;
+}
+
+.og-main > p {
+	text-align: center;
+	padding: 50px 20px;
+}
