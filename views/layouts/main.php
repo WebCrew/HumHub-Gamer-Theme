@@ -86,6 +86,10 @@ AppAsset::register($this);
             <div class="topbar-brand hidden-xs">
                 <?php echo \humhub\widgets\SiteLogo::widget(); ?>
             </div>
+<<<<<<< HEAD
+=======
+            </div>
+>>>>>>> origin/master
 
             <div class="topbar-actions pull-right">
 				<div class="no-icons">
