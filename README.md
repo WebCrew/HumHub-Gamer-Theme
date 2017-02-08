@@ -5,7 +5,10 @@ Theme is working nice with latest HumHub release! Version 1.0.1+
 
 **NOT compatible with latest version of HumHub 1.2.0 beta 2!!! The theme has to be updated first.**
 
-!!Your help is urgently wanted to fix some of the few little bugs which are maybe left.
+**NOTE**:
+I`ll not do the update to HH 1.2.0 beta 2 because its a lot of work and I`m not very good with working with **less** files. I know CSS3 and HTML5 very well and a little JS but thats it - I`m only a hobby developer not a professional. If you want use my theme in future releases of HumHub then please help to do the update - otherwise the TodGmbH theme is a dead project now. Here you can find the update steps: http://docs.humhub.org/theme-theming-migrate.html
+
+!!Your help is urgently wanted!! Thank you :)
 
 
 **NOTE:** 
