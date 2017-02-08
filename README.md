@@ -12,9 +12,7 @@ _The theme needs one Space which is open also for guests, otherwise the login/re
 ***
 
 
-**Profile Screenshot**
-
-###Profile View
+## Profile View
 <a href="http://todgmbh.de">
     <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/profile.png?raw=true" alt="Theme Screenshot"
          title="HumHub TodGmbH Theme - Profile View" align="left" />
@@ -24,7 +22,7 @@ _The theme needs one Space which is open also for guests, otherwise the login/re
 
 
 
-## Features
+### Features
 - dark flat design
 - Sidebar left position
 - Custom main menu
@@ -34,9 +32,11 @@ _The theme needs one Space which is open also for guests, otherwise the login/re
 - Slider block
 - and other changes
 
+***
 
 
-## Has to be fixed and reworked (You are welcome to help)
+
+### Has to be fixed and reworked (You are welcome to help)
 
 - Some links of the main top navigation are in need of a hover info text (some links working with info text, some not)
 - Terms Module is not working with TodGmbH theme - needs to be fixed.
@@ -47,22 +47,28 @@ _The theme needs one Space which is open also for guests, otherwise the login/re
          title="Navigation Example of the Issue" align="center" />
 </a>
 
+***
 
 
-## Install
+
+### Install
 - Extract archive and rename to TodGmbH.
 - Put folder in: yousite.com/themes
 
+***
 
 
-## Settings
+
+### Settings
 - You can change intro videos in folder: ../TodGmbH/video
 - You can change slider settings in file: ../TodGmbH/views/dashboard/widgets/share.php
 
+***
 
 
 
-## Author plus Team
+
+### Author plus Team
 - Andreas Holzer - [web-crew.org](http://web-crew.org)
 - Animesh - [Animeash Swain HumHub Profile](https://community.humhub.com/u/animesh+swain/)
 - Alexandra Travkina - [thrashed.ru](http://thrashed.ru)
