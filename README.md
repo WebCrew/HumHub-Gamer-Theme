@@ -9,24 +9,8 @@ Theme is working nice with latest HumHub release! Version 1.0.1+
 **NOTE:** 
 _The theme needs one Space which is open also for guests, otherwise the login/registration is not working! I will not change that feature, because thats the way my theme has to work, but you are welcome to edit it in your installation to fit your needs._
 
-**SPECIAL**: My TodGmbH theme has now Markdown support in all Space messages and also comments. I can understand the performance implications of doing this on the server side. However, **there aren't any of those concerns** if we process the Markdown on the client side, so all is fine. 
-
-**You should use only the following Markdown tags:**
-
-- list style: `- your text here, or + your text here, or 1. your text here` 
-- bold text: `two asterisks then your text and again two asterisks`
-- italic text: `*one asterisks* or _underscores_`
-- titles (H3,H4): `### Your H3 title, or #### Your H4 title `
-- horizontal rules: `three underscores ___ or three asterisks ***
-
 ***
 
-
-
-
-####Important Note 
-
-Do **not use** other Markdown tags as the ones which I have named, otherwise the website **stops loading**!!!
 
 **Profile Screenshot**
 
@@ -36,7 +20,7 @@ Do **not use** other Markdown tags as the ones which I have named, otherwise the
          title="HumHub TodGmbH Theme - Profile View" align="left" />
 </a>
 
-
+***
 
 
 
