@@ -3,13 +3,13 @@
 I did a lot of changes and fixed a lot of issues and bugs. 
 Theme is working nice with latest HumHub release! Version 1.0.1+
 
-**NOT compatible with latest version of HumHub 1.2.0 beta 2!!! The theme has to be updated first.**
+**NOT compatible with latest version of HumHub 1.2.0 !!! The theme has to be updated first.**
 
 **NOTE**:
 
 **I will no longer make use of HumHub and I stop updating my modules and themes for HumHub. If You want update the theme you can find the stepps here: http://docs.humhub.org/theme-theming-migrate.html**
 
-I say Thank you and which all HumHub users a good time:)
+I say Thank you and whish all HumHub users a good time:)
 
 
 **NOTE:** 
@@ -19,7 +19,7 @@ _The theme needs one Space which is open also for guests, otherwise the login/re
 
 
 ## Profile View
-<a href="http://todgmbh.de">
+<a href="http://crazymates.de">
     <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/profile.png?raw=true" alt="Theme Screenshot"
          title="HumHub TodGmbH Theme - Profile View" align="left" />
 </a>
@@ -48,7 +48,7 @@ _The theme needs one Space which is open also for guests, otherwise the login/re
 - Terms Module is not working with TodGmbH theme - needs to be fixed.
 
 
-<a href="http://todgmbh.de">
+<a href="http://crazymates.de">
     <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/navigation.gif?raw=true" alt="Navigation Example of the Issue"
          title="Navigation Example of the Issue" align="center" />
 </a>
