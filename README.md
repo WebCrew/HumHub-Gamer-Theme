@@ -75,7 +75,7 @@ _The theme needs one Space which is open also for guests, otherwise the login/re
 
 
 ### Author plus Team
-- Andreas Holzer - [web-crew.org](http://web-crew.org)
+- Andreas Holzer - [crazymates.de](https://crazymates.de/)
 - Animesh - [Animeash Swain HumHub Profile](https://community.humhub.com/u/animesh+swain/)
 - Alexandra Travkina - [thrashed.ru](http://thrashed.ru)
 
