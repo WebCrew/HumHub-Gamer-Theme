@@ -1,9 +1,6 @@
 #  HumHub-Theme-TodGmbH
 
-I did a lot of changes and fixed a lot of issues and bugs. 
-Theme is working nice with latest HumHub release! Version 1.0.1+
-
-**NOT compatible with latest version of HumHub 1.2.0 !!! The theme has to be updated first.**
+**NOT compatible with latest version of HumHub !!! The theme has to be updated first.**
 
 **NOTE**:
 
