@@ -2,6 +2,8 @@
 
 **NOT compatible with latest version of HumHub !!! The theme has to be updated first.**
 
+##I really hope someone does an update because I've put so much time into making the theme as pretty as it was back then.
+
 **NOTE**:
 
 **I will no longer make use of HumHub and I stop updating my modules and themes for HumHub. If You want update the theme you can find the stepps here: http://docs.humhub.org/theme-theming-migrate.html**
