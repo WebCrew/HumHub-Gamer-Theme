@@ -2,7 +2,7 @@
 
 **NOT compatible with latest version of HumHub !!! The theme has to be updated first.**
 
-##I really hope someone does an update because I've put so much time into making the theme as pretty as it was back then.
+## I really hope someone does an update because I've put so much time into making the theme as pretty as it was back then.
 
 **NOTE**:
 
