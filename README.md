@@ -1,5 +1,4 @@
-#  HumHub-Theme-TodGmbH
-
+#  HumHub-Theme-Gamer
 **NOT compatible with latest version of HumHub !!! The theme has to be updated first.**
 
 ## I really hope someone does an update because I've put so much time into making the theme as pretty as it was back then.
@@ -18,9 +17,9 @@ _The theme needs one Space which is open also for guests, otherwise the login/re
 
 
 ## Profile View
-<a href="http://crazymates.de">
+<a href="http://net-twin.de">
     <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/profile.png?raw=true" alt="Theme Screenshot"
-         title="HumHub TodGmbH Theme - Profile View" align="left" />
+         title="HumHub Gamer Theme - Profile View" align="left" />
 </a>
 
 ***
@@ -47,7 +46,7 @@ _The theme needs one Space which is open also for guests, otherwise the login/re
 - Terms Module is not working with TodGmbH theme - needs to be fixed.
 
 
-<a href="http://crazymates.de">
+<a href="http://net-twin.de">
     <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/navigation.gif?raw=true" alt="Navigation Example of the Issue"
          title="Navigation Example of the Issue" align="center" />
 </a>
@@ -74,7 +73,7 @@ _The theme needs one Space which is open also for guests, otherwise the login/re
 
 
 ### Author plus Team
-- Andreas Holzer - [crazymates.de](https://crazymates.de/)
+- Andreas Holzer - [net-twin.de](https://net-twin.de/net/NetTwin)
 - Animesh - [Animeash Swain HumHub Profile](https://community.humhub.com/u/animesh+swain/)
 - Alexandra Travkina - [thrashed.ru](http://thrashed.ru)
 
