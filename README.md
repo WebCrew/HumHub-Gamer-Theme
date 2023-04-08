@@ -43,7 +43,7 @@ _The theme needs one Space which is open also for guests, otherwise the login/re
 ### Has to be fixed and reworked (You are welcome to help)
 
 - Some links of the main top navigation are in need of a hover info text (some links working with info text, some not)
-- Terms Module is not working with TodGmbH theme - needs to be fixed.
+- Terms Module is not working with Gamer theme - needs to be fixed.
 
 
 <a href="http://net-twin.de">
@@ -56,7 +56,7 @@ _The theme needs one Space which is open also for guests, otherwise the login/re
 
 
 ### Install
-- Extract archive and rename to TodGmbH.
+- Extract archive and rename to Gamer.
 - Put folder in: yousite.com/themes
 
 ***
@@ -64,8 +64,8 @@ _The theme needs one Space which is open also for guests, otherwise the login/re
 
 
 ### Settings
-- You can change intro videos in folder: ../TodGmbH/video
-- You can change slider settings in file: ../TodGmbH/views/dashboard/widgets/share.php
+- You can change intro videos in folder: ../Gamer/video
+- You can change slider settings in file: ../Gamer/views/dashboard/widgets/share.php
 
 ***
 
