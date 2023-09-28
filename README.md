@@ -17,10 +17,8 @@ _The theme needs one Space which is open also for guests, otherwise the login/re
 
 
 ## Profile View
-<a href="http://net-twin.de">
-    <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/profile.png?raw=true" alt="Theme Screenshot"
+<img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/profile.png?raw=true" alt="Theme Screenshot"
          title="HumHub Gamer Theme - Profile View" align="left" />
-</a>
 
 ***
 
@@ -46,10 +44,8 @@ _The theme needs one Space which is open also for guests, otherwise the login/re
 - Terms Module is not working with Gamer theme - needs to be fixed.
 
 
-<a href="http://net-twin.de">
-    <img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/navigation.gif?raw=true" alt="Navigation Example of the Issue"
+<img src="https://github.com/WebCrew/TodGmbH-HumHub-Theme/blob/master/navigation.gif?raw=true" alt="Navigation Example of the Issue"
          title="Navigation Example of the Issue" align="center" />
-</a>
 
 ***
 
